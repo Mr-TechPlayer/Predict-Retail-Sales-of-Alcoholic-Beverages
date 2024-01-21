@@ -1,2 +1,5 @@
 # Predict-Retail-Sales-of-Alcoholic-Beverages
-# Introduction
+
+Name: Jiayu Zeng
+
+## Introduction
